@@ -1,0 +1,53 @@
+# Unity Generated Folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User Settings
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity Cache
+Assets/AssetStoreTools*
+
+# Crash Reports
+sysinfo.txt
+
+# Auto Generated Metadata
+*.pidb.meta
+
+# Build Files
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Generated Code Coverage
+CoverageResults/
